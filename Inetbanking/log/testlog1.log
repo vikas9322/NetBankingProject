@@ -1,0 +1,190 @@
+2020-05-22 21:34:51,542 [main] INFO ibanking - url is initialized
+2020-05-22 21:34:51,716 [main] INFO ibanking - passing credential
+2020-05-22 21:35:08,870 [main] INFO ibanking - Login sucessfull 
+2020-05-22 23:12:34,048 [main] INFO ibanking - url is initialized
+2020-05-22 23:12:34,148 [main] INFO ibanking - passing credential
+2020-05-22 23:12:38,730 [main] INFO ibanking - Login sucessfull 
+2020-05-22 23:49:51,726 [main] INFO ibanking - url is initialized
+2020-05-22 23:49:51,834 [main] INFO ibanking - passing credential
+2020-05-22 23:49:56,025 [main] INFO ibanking - Login sucessfull 
+2020-05-22 23:51:19,633 [main] INFO ibanking - url is initialized
+2020-05-22 23:51:19,792 [main] INFO ibanking - passing credential
+2020-05-22 23:51:23,887 [main] INFO ibanking - Login sucessfull 
+2020-05-22 23:51:23,908 [main] INFO ibanking - Login test passed
+2020-05-23 00:30:27,509 [main] INFO ibanking - url is initialized
+2020-05-23 00:30:27,661 [main] INFO ibanking - passing credential
+2020-05-23 00:30:31,112 [main] INFO ibanking - Login sucessfull 
+2020-05-23 00:30:31,140 [main] INFO ibanking - Login test passed
+2020-05-23 00:31:43,179 [main] INFO ibanking - url is initialized
+2020-05-23 00:31:43,273 [main] INFO ibanking - passing credential
+2020-05-23 00:31:59,137 [main] INFO ibanking - Login sucessfull 
+2020-05-23 00:39:04,817 [main] INFO ibanking - url is initialized
+2020-05-23 00:39:04,916 [main] INFO ibanking - passing credential
+2020-05-23 00:39:18,953 [main] INFO ibanking - Login sucessfull 
+2020-05-23 00:39:18,976 [main] INFO ibanking - Login test passed
+2020-05-23 00:40:24,950 [main] INFO ibanking - url is initialized
+2020-05-23 00:40:25,149 [main] INFO ibanking - passing credential
+2020-05-23 00:40:40,613 [main] INFO ibanking - Login sucessfull 
+2020-05-23 00:40:40,644 [main] INFO ibanking - Login test passed
+2020-05-23 00:43:46,191 [main] INFO ibanking - url is initialized
+2020-05-23 00:43:46,360 [main] INFO ibanking - passing credential
+2020-05-23 00:43:59,823 [main] INFO ibanking - Login sucessfull 
+2020-05-23 00:43:59,842 [main] INFO ibanking - Login test passed
+2020-05-24 13:21:14,838 [main] INFO ibanking - url is initialized
+2020-05-24 13:21:15,116 [main] INFO ibanking - passing credential
+2020-05-24 13:21:24,007 [main] INFO ibanking - Login sucessfull 
+2020-05-24 13:21:24,026 [main] INFO ibanking - Login test passed
+2020-05-24 13:23:06,593 [main] INFO ibanking - url is initialized
+2020-05-24 13:23:06,685 [main] INFO ibanking - passing credential
+2020-05-24 13:23:10,970 [main] INFO ibanking - Login sucessfull 
+2020-05-24 13:24:14,628 [main] INFO ibanking - url is initialized
+2020-05-24 13:24:14,748 [main] INFO ibanking - passing credential
+2020-05-24 13:24:18,257 [main] INFO ibanking - Login sucessfull 
+2020-05-24 13:26:01,305 [main] INFO ibanking - url is initialized
+2020-05-24 13:26:01,468 [main] INFO ibanking - passing credential
+2020-05-24 13:26:09,020 [main] INFO ibanking - Login sucessfull 
+2020-05-24 13:26:09,040 [main] INFO ibanking - Login test passed
+2020-05-24 13:35:18,407 [main] INFO ibanking - url is initialized
+2020-05-24 13:35:18,510 [main] INFO ibanking - passing credential
+2020-05-24 13:35:21,013 [main] INFO ibanking - Login sucessfull 
+2020-05-24 13:35:21,671 [main] INFO ibanking - Login test passed
+2020-05-24 13:38:08,952 [main] INFO ibanking - url is initialized
+2020-05-24 13:38:09,045 [main] INFO ibanking - passing credential
+2020-05-24 13:38:22,826 [main] INFO ibanking - Login sucessfull 
+2020-05-24 13:45:48,147 [main] INFO ibanking - url is initialized
+2020-05-24 13:45:48,314 [main] INFO ibanking - passing credential
+2020-05-24 13:45:59,120 [main] INFO ibanking - Login sucessfull 
+2020-05-24 13:45:59,137 [main] INFO ibanking - Login test passed
+2020-05-24 14:02:56,995 [main] INFO ibanking - url is initialized
+2020-05-24 14:02:57,113 [main] INFO ibanking - passing credential
+2020-05-24 14:03:11,386 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:04:18,374 [main] INFO ibanking - url is initialized
+2020-05-24 14:04:18,474 [main] INFO ibanking - passing credential
+2020-05-24 14:04:31,782 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:05:21,086 [main] INFO ibanking - url is initialized
+2020-05-24 14:05:21,263 [main] INFO ibanking - passing credential
+2020-05-24 14:07:14,861 [main] INFO ibanking - url is initialized
+2020-05-24 14:07:14,993 [main] INFO ibanking - passing credential
+2020-05-24 14:07:18,959 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:08:06,637 [main] INFO ibanking - url is initialized
+2020-05-24 14:08:06,782 [main] INFO ibanking - passing credential
+2020-05-24 14:08:15,161 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:08:15,192 [main] INFO ibanking - Login test passed
+2020-05-24 14:11:23,500 [main] INFO ibanking - url is initialized
+2020-05-24 14:11:23,678 [main] INFO ibanking - passing credential
+2020-05-24 14:11:26,626 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:11:27,288 [main] INFO ibanking - Login test passed
+2020-05-24 14:12:47,910 [main] INFO ibanking - url is initialized
+2020-05-24 14:12:48,014 [main] INFO ibanking - passing credential
+2020-05-24 14:12:50,942 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:12:50,964 [main] INFO ibanking - Login test passed
+2020-05-24 14:15:23,555 [main] INFO ibanking - url is initialized
+2020-05-24 14:15:23,670 [main] INFO ibanking - passing credential
+2020-05-24 14:15:28,356 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:15:28,413 [main] INFO ibanking - Login test passed
+2020-05-24 14:26:28,201 [main] INFO ibanking - url is initialized
+2020-05-24 14:26:28,299 [main] INFO ibanking - passing credential
+2020-05-24 14:26:31,515 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:27:26,202 [main] INFO ibanking - url is initialized
+2020-05-24 14:27:26,314 [main] INFO ibanking - passing credential
+2020-05-24 14:27:30,741 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:27:30,761 [main] INFO ibanking - Login test passed
+2020-05-24 14:29:18,759 [main] INFO ibanking - url is initialized
+2020-05-24 14:29:18,851 [main] INFO ibanking - passing credential
+2020-05-24 14:29:23,247 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:29:23,265 [main] INFO ibanking - Login test passed
+2020-05-24 14:36:10,588 [main] INFO ibanking - url is initialized
+2020-05-24 14:36:10,728 [main] INFO ibanking - passing credential
+2020-05-24 14:36:18,316 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:36:18,855 [main] INFO ibanking - Login test passed
+2020-05-24 14:37:08,493 [main] INFO ibanking - url is initialized
+2020-05-24 14:37:08,591 [main] INFO ibanking - passing credential
+2020-05-24 14:37:11,312 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:37:11,999 [main] INFO ibanking - Login test passed
+2020-05-24 14:38:05,023 [main] INFO ibanking - url is initialized
+2020-05-24 14:38:05,135 [main] INFO ibanking - passing credential
+2020-05-24 14:38:09,584 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:38:09,601 [main] INFO ibanking - Login test passed
+2020-05-24 14:49:12,302 [main] INFO ibanking - url is initialized
+2020-05-24 14:49:12,501 [main] INFO ibanking - passing credential
+2020-05-24 14:49:16,241 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:50:14,580 [main] INFO ibanking - url is initialized
+2020-05-24 14:50:14,725 [main] INFO ibanking - passing credential
+2020-05-24 14:50:18,460 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:50:18,498 [main] INFO ibanking - Login test passed
+2020-05-24 14:51:23,051 [main] INFO ibanking - url is initialized
+2020-05-24 14:51:23,150 [main] INFO ibanking - passing credential
+2020-05-24 14:51:26,244 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:51:27,005 [main] INFO ibanking - Login test passed
+2020-05-24 14:54:54,602 [main] INFO ibanking - url is initialized
+2020-05-24 14:54:54,761 [main] INFO ibanking - passing credential
+2020-05-24 14:54:59,993 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:56:06,719 [main] INFO ibanking - url is initialized
+2020-05-24 14:56:06,879 [main] INFO ibanking - passing credential
+2020-05-24 14:56:14,503 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:57:21,299 [main] INFO ibanking - url is initialized
+2020-05-24 14:57:21,456 [main] INFO ibanking - passing credential
+2020-05-24 14:57:26,092 [main] INFO ibanking - Login sucessfull 
+2020-05-24 14:57:26,126 [main] INFO ibanking - Login test passed
+2020-05-24 15:02:09,477 [main] INFO ibanking - url is initialized
+2020-05-24 15:02:09,566 [main] INFO ibanking - passing credential
+2020-05-24 15:02:12,881 [main] INFO ibanking - Login sucessfull 
+2020-05-24 15:02:12,905 [main] INFO ibanking - Login test passed
+2020-05-24 15:03:52,930 [main] INFO ibanking - url is initialized
+2020-05-24 15:03:53,029 [main] INFO ibanking - passing credential
+2020-05-24 15:03:56,252 [main] INFO ibanking - Login sucessfull 
+2020-05-24 15:12:16,205 [main] INFO ibanking - url is initialized
+2020-05-24 15:12:16,440 [main] INFO ibanking - passing credential
+2020-05-24 15:12:21,640 [main] INFO ibanking - Login sucessfull 
+2020-05-24 15:12:21,659 [main] INFO ibanking - Login test passed
+2020-05-24 15:13:24,472 [main] INFO ibanking - url is initialized
+2020-05-24 15:13:24,735 [main] INFO ibanking - passing credential
+2020-05-24 15:13:30,225 [main] INFO ibanking - Login sucessfull 
+2020-05-24 15:13:30,272 [main] INFO ibanking - Login test passed
+2020-05-24 15:14:30,474 [main] INFO ibanking - url is initialized
+2020-05-24 15:14:30,659 [main] INFO ibanking - passing credential
+2020-05-24 15:14:34,806 [main] INFO ibanking - Login sucessfull 
+2020-05-24 15:14:34,849 [main] INFO ibanking - Login test passed
+2020-05-24 15:23:09,796 [main] INFO ibanking - url is initialized
+2020-05-24 15:23:09,931 [main] INFO ibanking - passing credential
+2020-05-24 15:23:13,834 [main] INFO ibanking - Login sucessfull 
+2020-05-24 15:23:13,857 [main] INFO ibanking - Login test passed
+2020-05-24 20:31:51,857 [main] INFO ibanking - url is initialized
+2020-05-24 20:31:52,165 [main] INFO ibanking - passing credential
+2020-05-24 20:31:59,598 [main] INFO ibanking - Login sucessfull 
+2020-05-24 20:31:59,625 [main] INFO ibanking - Login test passed
+2020-05-24 20:45:31,511 [main] INFO ibanking - url is initialized
+2020-05-24 20:45:31,629 [main] INFO ibanking - passing credential
+2020-05-24 20:45:35,503 [main] INFO ibanking - Login sucessfull 
+2020-05-24 20:45:35,565 [main] INFO ibanking - Login test passed
+2020-05-24 20:46:29,769 [main] INFO ibanking - url is initialized
+2020-05-24 20:46:29,880 [main] INFO ibanking - passing credential
+2020-05-24 20:46:35,753 [main] INFO ibanking - Login sucessfull 
+2020-05-24 20:46:35,773 [main] INFO ibanking - Login test passed
+2020-05-24 20:48:05,836 [main] INFO ibanking - url is initialized
+2020-05-24 20:48:05,946 [main] INFO ibanking - passing credential
+2020-05-24 20:48:09,862 [main] INFO ibanking - Login sucessfull 
+2020-05-24 20:48:09,892 [main] INFO ibanking - Login test passed
+2020-05-25 23:25:05,343 [main] INFO ibanking - url is initialized
+2020-05-25 23:25:05,731 [main] INFO ibanking - passing credential
+2020-05-25 23:25:10,065 [main] INFO ibanking - Login sucessfull 
+2020-05-25 23:25:10,102 [main] INFO ibanking - Login test passed
+2020-05-30 22:33:02,012 [main] INFO ibanking - url is initialized
+2020-05-30 22:33:02,264 [main] INFO ibanking - passing credential
+2020-05-30 22:33:07,398 [main] INFO ibanking - Login sucessfull 
+2020-05-30 22:33:07,433 [main] INFO ibanking - Login test passed
+2020-06-01 23:08:11,484 [main] INFO ibanking - url is initialized
+2020-06-01 23:08:12,334 [main] INFO ibanking - passing credential
+2020-06-01 23:08:23,461 [main] INFO ibanking - Login sucessfull 
+2020-06-01 23:08:23,573 [main] INFO ibanking - Login test passed
+2020-06-12 16:26:16,247 [main] INFO ibanking - url is initialized
+2020-06-12 16:26:16,506 [main] INFO ibanking - passing credential
+2020-06-12 16:26:33,976 [main] INFO ibanking - Login sucessfull 
+2020-06-12 16:26:33,999 [main] INFO ibanking - Login test passed
+2020-06-12 16:33:55,063 [main] INFO ibanking - url is initialized
+2020-06-12 16:33:55,160 [main] INFO ibanking - passing credential
+2020-06-12 16:33:58,618 [main] INFO ibanking - Login sucessfull 
+2020-06-12 16:33:58,638 [main] INFO ibanking - Login test passed
+2020-06-17 22:23:23,325 [main] INFO ibanking - url is initialized
+2020-06-17 22:23:24,711 [main] INFO ibanking - passing credential
+2020-06-17 22:23:48,334 [main] INFO ibanking - Login sucessfull 
